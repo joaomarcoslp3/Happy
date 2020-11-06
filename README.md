@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Proffy is a system prototype for help the persons in my region that want to find and visit orphanages using an app and make the kids H*app*y xD. In the web and in the mobile the orphanages can create their profiles registering  the location, visitation infos and some photos. In mobile and in the web the person can find in the map all orphanages arround and get in contact.
+  Proffy is a system prototype for help the persons in my region that want to find and visit orphanages using an app and make the kids H<strong>app</strong>y xD. In the web and in the mobile the orphanages can create their profiles registering  the location, visitation infos and some photos. In mobile and in the web the person can find in the map all orphanages arround and get in contact.
 </p>
 
 ## Tech
